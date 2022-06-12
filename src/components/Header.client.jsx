@@ -49,7 +49,7 @@ export default function Header({collections, storeName}) {
               className="flex-grow text-3xl font-black tracking-widest uppercase"
               to="/"
             >
-              {storeName}
+              BeeFresh
             </Link>
             <div className="flex justify-end w-20 lg:w-40">
               <Link to="/account" className="mr-2">
